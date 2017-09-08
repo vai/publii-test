@@ -19,21 +19,21 @@
             },
             "tags": [
             ],
-            "date_published": "2017-09-08T17:33:25-04:00",
+            "date_published": "2017-09-08T17:38:43-04:00",
             "date_modified": "2017-09-08T17:33:00-04:00"
         },
         {
             "id": "https://clayyount.github.io/publii-test/test-post-1.html",
             "url": "https://clayyount.github.io/publii-test/test-post-1.html",
             "title": "Test post 1",
-            "content_html": "This is a test post",
+            "content_html": "<img src=\"https://clayyount.github.io/publii-test/media/posts/1/comic-01-guru.jpg\" alt=\"Comic 1\" width=\"1100\" height=\"759\">This is a test post",
             "author": {
                 "name": "Clay Yount"
             },
             "tags": [
             ],
-            "date_published": "2017-09-08T17:33:25-04:00",
-            "date_modified": "2017-09-08T17:21:27-04:00"
+            "date_published": "2017-09-08T17:38:43-04:00",
+            "date_modified": "2017-09-08T17:38:35-04:00"
         }
     ]
 }

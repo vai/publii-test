@@ -3,7 +3,7 @@
     <title>test-site</title>
     <link href="https://clayyount.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://clayyount.github.io/publii-test" />
-    <updated>2017-09-08T17:33:25-04:00</updated>
+    <updated>2017-09-08T17:38:43-04:00</updated>
     <author>
         <name>Clay Yount</name>
     </author>
@@ -33,11 +33,11 @@
         <link href="https://clayyount.github.io/publii-test/test-post-1.html"/>
         <id>https://clayyount.github.io/publii-test/test-post-1.html</id>
 
-        <updated>2017-09-08T17:21:27-04:00</updated>
+        <updated>2017-09-08T17:38:35-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                This is a test post
+                <img src="https://clayyount.github.io/publii-test/media/posts/1/comic-01-guru.jpg" alt="Comic 1" width="1100" height="759">This is a test post
             ]]>
         </content>
     </entry>
