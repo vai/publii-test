@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test-site",
+    "description": "",
+    "home_page_url": "https://clayyount.github.io/publii-test",
+    "feed_url": "https://clayyount.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Clay Yount"
+    },
+    "items": [
+        {
+            "id": "https://clayyount.github.io/publii-test/test-post-1.html",
+            "url": "https://clayyount.github.io/publii-test/test-post-1.html",
+            "title": "Test post 1",
+            "content_html": "This is a test post",
+            "author": {
+                "name": "Clay Yount"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-09-08T17:23:16-04:00",
+            "date_modified": "2017-09-08T17:21:27-04:00"
+        }
+    ]
+}
