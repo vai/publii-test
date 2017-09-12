@@ -10,18 +10,6 @@
     },
     "items": [
         {
-            "id": "https://clayyount.github.io/publii-test/archive/",
-            "url": "https://clayyount.github.io/publii-test/archive/",
-            "title": "Archive",
-            "author": {
-                "name": "Clay Yount"
-            },
-            "tags": [
-            ],
-            "date_published": "2017-09-12T10:35:40-04:00",
-            "date_modified": "2017-09-12T10:26:35-04:00"
-        },
-        {
             "id": "https://clayyount.github.io/publii-test/test-post-2/",
             "url": "https://clayyount.github.io/publii-test/test-post-2/",
             "title": "Test Post 2",
@@ -31,21 +19,8 @@
             },
             "tags": [
             ],
-            "date_published": "2017-09-12T10:35:40-04:00",
+            "date_published": "2017-09-12T10:37:56-04:00",
             "date_modified": "2017-09-08T17:33:00-04:00"
-        },
-        {
-            "id": "https://clayyount.github.io/publii-test/about/",
-            "url": "https://clayyount.github.io/publii-test/about/",
-            "title": "About",
-            "content_html": "This is an about page",
-            "author": {
-                "name": "Clay Yount"
-            },
-            "tags": [
-            ],
-            "date_published": "2017-09-12T10:35:40-04:00",
-            "date_modified": "2017-09-12T10:30:32-04:00"
         },
         {
             "id": "https://clayyount.github.io/publii-test/test-post-1/",
@@ -57,7 +32,7 @@
             },
             "tags": [
             ],
-            "date_published": "2017-09-12T10:35:40-04:00",
+            "date_published": "2017-09-12T10:37:56-04:00",
             "date_modified": "2017-09-08T17:38:35-04:00"
         }
     ]

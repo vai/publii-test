@@ -3,24 +3,12 @@
     <title>comic</title>
     <link href="https://clayyount.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://clayyount.github.io/publii-test" />
-    <updated>2017-09-12T10:35:40-04:00</updated>
+    <updated>2017-09-12T10:37:56-04:00</updated>
     <author>
         <name>Clay Yount</name>
     </author>
     <id>https://clayyount.github.io/publii-test</id>
 
-    <entry>
-        <title>Archive</title>
-        <author>
-            <name>Clay Yount</name>
-        </author>
-        <link href="https://clayyount.github.io/publii-test/archive/"/>
-        <id>https://clayyount.github.io/publii-test/archive/</id>
-
-        <updated>2017-09-12T10:26:35-04:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
     <entry>
         <title>Test Post 2</title>
         <author>
@@ -34,22 +22,6 @@
         <content type="html">
             <![CDATA[
                 This is test post 2
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>About</title>
-        <author>
-            <name>Clay Yount</name>
-        </author>
-        <link href="https://clayyount.github.io/publii-test/about/"/>
-        <id>https://clayyount.github.io/publii-test/about/</id>
-
-        <updated>2017-09-12T10:30:32-04:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                This is an about page
             ]]>
         </content>
     </entry>
